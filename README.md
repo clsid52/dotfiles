@@ -1,2 +1,2 @@
 # dotfiles
-This repo contains my dotfile configuration for vscode extensions,neovim plugins,emacs files
+This repo contains my dotfile configuration for vscode,neovim,emacs files
